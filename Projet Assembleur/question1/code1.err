@@ -1,0 +1,10 @@
+Warning[205] D:\MICRO\CODE1.ASM 3 : Found directive in column 1. (ORG)
+Warning[203] D:\MICRO\CODE1.ASM 5 : Found opcode in column 1. (BSF)
+Warning[203] D:\MICRO\CODE1.ASM 6 : Found opcode in column 1. (BCF)
+Warning[203] D:\MICRO\CODE1.ASM 8 : Found opcode in column 1. (MOVLW)
+Warning[203] D:\MICRO\CODE1.ASM 9 : Found opcode in column 1. (MOVWF)
+Message[302] D:\MICRO\CODE1.ASM 9 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[203] D:\MICRO\CODE1.ASM 11 : Found opcode in column 1. (BCF)
+Warning[203] D:\MICRO\CODE1.ASM 12 : Found opcode in column 1. (MOVLW)
+Warning[203] D:\MICRO\CODE1.ASM 13 : Found opcode in column 1. (MOVWF)
+Warning[205] D:\MICRO\CODE1.ASM 14 : Found directive in column 1. (End)

@@ -1,0 +1,6 @@
+Warning[205] D:\PROJET ASSEMBLEUR\SIMULATION3\CODE3.ASM 3 : Found directive in column 1. (__CONFIG)
+Warning[205] D:\PROJET ASSEMBLEUR\SIMULATION3\CODE3.ASM 5 : Found directive in column 1. (org)
+Warning[203] D:\PROJET ASSEMBLEUR\SIMULATION3\CODE3.ASM 6 : Found opcode in column 1. (goto)
+Warning[205] D:\PROJET ASSEMBLEUR\SIMULATION3\CODE3.ASM 8 : Found directive in column 1. (org)
+Message[302] D:\PROJET ASSEMBLEUR\SIMULATION3\CODE3.ASM 14 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[205] D:\PROJET ASSEMBLEUR\SIMULATION3\CODE3.ASM 32 : Found directive in column 1. (end)
